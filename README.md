@@ -8,7 +8,7 @@ Always looking for ways to improve, build useful projects, and grow every day.
 - **Languages:** JavaScript, TypeScript, C++   
 - **Frameworks & Libraries:** React, Node.js, Express, Next.js, Prisma  
 - **Databases:** PostgreSQL, MongoDB  
-- **Tools & Platforms:** Git, Github, Docker, Postman  
+- **Tools & Platforms:** Git, Github, Postman  
 
 ## Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/khalid-miya-drac/)  
