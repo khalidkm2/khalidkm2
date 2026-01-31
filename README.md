@@ -5,7 +5,7 @@ I'm a cs student with a passion for learning and exploring technology.I enjoy bu
 
 ## Skills  
 - **Languages:** JavaScript, TypeScript,
-- **Frameworks & Libraries:** React, Node.js, Express, Prisma  
+- **Frameworks & Libraries:** React, Node.js, Express.js , Prisma  
 - **Databases:** PostgreSQL, Mongodb 
 - **Tools & Platforms:** Git, Github, Postman
 
